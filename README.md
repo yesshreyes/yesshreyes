@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas Deshmukh</h1>
 <h3 align="center">Android Developer</h3>
 
-- 🌱 I’m currently learning **Android Studio**
-
-- 💬 Ask me about **python**
+- 🌱 I’m currently learning **Kotlin Jetpack Compose**
 
 - 📫 How to reach me **shreyesdeshmukh03@gmail.com**
 
